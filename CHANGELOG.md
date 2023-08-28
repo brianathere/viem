@@ -1,5 +1,23 @@
 # viem
 
+## 1.8.1
+
+### Patch Changes
+
+- [#1072](https://github.com/wagmi-dev/viem/pull/1072) [`edf264f3`](https://github.com/wagmi-dev/viem/commit/edf264f385e1bb24d4f7b242d1446124a6d3fcb4) Thanks [@linchengzzz](https://github.com/linchengzzz)! - Added Linea chain.
+
+## 1.8.0
+
+### Minor Changes
+
+- [#1058](https://github.com/wagmi-dev/viem/pull/1058) [`533b5900`](https://github.com/wagmi-dev/viem/commit/533b59006b3344b947485ef372f0c78b111f6dc3) Thanks [@jxom](https://github.com/jxom)! - Added `prepareTransactionRequest`, `signTransaction`, and `sendRawTransaction`.
+
+## 1.7.1
+
+### Patch Changes
+
+- [`da45ec2d`](https://github.com/wagmi-dev/viem/commit/da45ec2d519ccabef5eef0c4bc8efae05c12bcb3) Thanks [@jxom](https://github.com/jxom)! - Deduped block retrieval in `estimateMaxPriorityFeePerGas`.
+
 ## 1.7.0
 
 ### Minor Changes
